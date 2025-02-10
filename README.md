@@ -23,8 +23,6 @@ Gaurinandan Cold Storage is a **state-of-the-art cold storage facility** providi
 ## 📞 Contact Information  
 **Company Name**: Gaurinandan Cold Storage LLP  
 **Location**: Nananpur, Gujarat-383001, India  
-**Phone**: [🌐 +91 9909655522](tel:+919909655522)  
-**Email**: [📧 gaurinandancoldstorage@gmail.com](mailto:gaurinandancoldstorage@gmail.com)  
 **Google Maps**: [📍 View Location](https://maps.app.goo.gl/z63f5kEdQMZrD2ka9)  
 
 ## 👨‍💻 Developed By  
