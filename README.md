@@ -13,9 +13,6 @@ Gaurinandan Cold Storage is a **state-of-the-art cold storage facility** providi
 
 ## 💂 Technologies Used  
 - **HTML5 & CSS3**  
-- **Bootstrap 5** (for responsive design)  
-- **JavaScript** (for animations & interactivity)  
-- **Google Fonts** (Roboto)  
 
 ## 🔗 Live Website  
 [🌍 Visit Gaurinandan Cold Storage](https://gaurinandancoldstorage.netlify.app)  
