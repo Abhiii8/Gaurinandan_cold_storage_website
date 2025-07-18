@@ -25,7 +25,7 @@ Gaurinandan Cold Storage is a **state-of-the-art cold storage facility** providi
 ## 👨‍💻 Developed By  
 **Abhi Patel**  
 - 🌟 **GitHub**: [Abhiii8](https://github.com/Abhiii8)  
-- 📧 **Email**: [abhikiranpatel@gmail.com](mailto:abhikiranpatel@gmail.com) (Replace with your actual email)  
+- 📧 **Email**: [abhikiranpatel@gmail.com](mailto:abhikiranpatel@gmail.com)
 
 ## 🐜 License  
 This project is **open-source** and can be modified as needed. However, proper credits must be given when using any part of this code.  
